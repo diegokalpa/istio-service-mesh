@@ -181,7 +181,7 @@ http://34.134.221.81:80/productpage
 
 In your explorer you will have  something like:
 
-[![IMAGE PRODUCTPAGE](IMAGE PRODUCTPAGE "IMAGE PRODUCTPAGE")](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7e99ce0c-7afa-4182-8230-d073240b4c23/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220905%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220905T210141Z&X-Amz-Expires=86400&X-Amz-Signature=97f9d8001068eb247d8a9511c81fb08c0b3875421854adc7a25d6909834a7624&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject "IMAGE PRODUCTPAGE")
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7e99ce0c-7afa-4182-8230-d073240b4c23/Untitled.png"
 
 ## Adding Telemetry with Istio
 
