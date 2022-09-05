@@ -1,6 +1,6 @@
 # How to install Service Mesh with Istio in k8s
 
-**This step by step show how to install service mesh with istio in an kubernetes cluster already created.
+**This step by step show how to install service mesh with istio in a kubernetes cluster already created.
 **
 
 ##Requirements:
