@@ -181,7 +181,7 @@ http://34.134.221.81:80/productpage
 
 In your explorer you will have  something like:
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7e99ce0c-7afa-4182-8230-d073240b4c23/Untitled.png"
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7e99ce0c-7afa-4182-8230-d073240b4c23/Untitled.png)
 
 ## Adding Telemetry with Istio
 
